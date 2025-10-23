@@ -9,6 +9,12 @@ sites:
     url: https://mrchicken.nexussfan.cz
   - name: Mr Chicken (.biz)
     url: https://mrchicken.coolpage.biz
+  - name: River Games
+    url: https://rivergames.ca
+  - name: Nexus S Posts
+    url: https://posts.nexussfan.cz
+  - name: Mr Chicken Repo
+    url: https://repo.nexussfan.cz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
