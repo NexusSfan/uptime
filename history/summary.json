@@ -40,19 +40,19 @@
     "url": "https://mrchicken.coolpage.biz",
     "icon": "https://icons.duckduckgo.com/ip3/mrchicken.coolpage.biz.ico",
     "slug": "mr-chicken-biz",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 535,
-    "timeDay": 535,
-    "timeWeek": 535,
-    "timeMonth": 535,
-    "timeYear": 535,
+    "status": "up",
+    "uptime": "95.14%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "95.14%",
+    "uptimeMonth": "95.14%",
+    "uptimeYear": "95.14%",
+    "time": 598,
+    "timeDay": 598,
+    "timeWeek": 598,
+    "timeMonth": 598,
+    "timeYear": 598,
     "dailyMinutesDown": {
-      "2025-10-23": 0
+      "2025-10-23": 19
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-23": 385
+      "2025-10-23": 405
     }
   },
   {
