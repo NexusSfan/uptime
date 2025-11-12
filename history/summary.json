@@ -63,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rivergames.ca.ico",
     "slug": "river-games",
     "status": "up",
-    "uptime": "16.05%",
+    "uptime": "16.31%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "45.46%",
-    "uptimeMonth": "16.05%",
-    "uptimeYear": "16.05%",
+    "uptimeWeek": "46.31%",
+    "uptimeMonth": "16.31%",
+    "uptimeYear": "16.31%",
     "time": 769,
     "timeDay": 851,
     "timeWeek": 769,
@@ -135,18 +135,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/technetium.rivergames.ca.ico",
     "slug": "technetium",
     "status": "down",
-    "uptime": "12.36%",
-    "uptimeDay": "12.36%",
-    "uptimeWeek": "12.36%",
-    "uptimeMonth": "12.36%",
-    "uptimeYear": "12.36%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-11": 0
+      "2025-11-12": 75,
+      "2025-11-11": 11
     }
   }
 ]
