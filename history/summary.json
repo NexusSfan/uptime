@@ -4,10 +4,10 @@
     "url": "https://nexussfan.cz",
     "icon": "https://icons.duckduckgo.com/ip3/nexussfan.cz.ico",
     "slug": "nexus-sfan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 712,
@@ -15,7 +15,9 @@
     "timeWeek": 643,
     "timeMonth": 606,
     "timeYear": 712,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-23": 1
+    }
   },
   {
     "name": "Mr Chicken (.cz)",
@@ -63,11 +65,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rivergames.ca.ico",
     "slug": "river-games",
     "status": "up",
-    "uptime": "47.37%",
+    "uptime": "47.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "47.28%",
-    "uptimeYear": "47.37%",
+    "uptimeMonth": "47.32%",
+    "uptimeYear": "47.39%",
     "time": 745,
     "timeDay": 745,
     "timeWeek": 746,
@@ -98,19 +100,19 @@
     "url": "https://posts.nexussfan.cz",
     "icon": "https://icons.duckduckgo.com/ip3/posts.nexussfan.cz.ico",
     "slug": "nexus-s-posts",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 628,
-    "timeWeek": 551,
-    "timeMonth": 587,
-    "timeYear": 587,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 581,
+    "timeDay": 507,
+    "timeWeek": 531,
+    "timeMonth": 581,
+    "timeYear": 581,
     "dailyMinutesDown": {
-      "2025-11-23": 1
+      "2025-11-23": 18
     }
   },
   {
@@ -148,7 +150,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-23": 1113,
+      "2025-11-23": 1131,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
