@@ -24,9 +24,9 @@
     "url": "https://mrchicken.nexussfan.cz",
     "icon": "https://icons.duckduckgo.com/ip3/mrchicken.nexussfan.cz.ico",
     "slug": "mr-chicken-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 607,
     "timeMonth": 756,
     "timeYear": 745,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-23": 0
+    }
   },
   {
     "name": "Mr Chicken (.biz)",
@@ -65,11 +67,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rivergames.ca.ico",
     "slug": "river-games",
     "status": "up",
-    "uptime": "47.40%",
+    "uptime": "47.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "47.34%",
-    "uptimeYear": "47.40%",
+    "uptimeMonth": "47.37%",
+    "uptimeYear": "47.42%",
     "time": 745,
     "timeDay": 745,
     "timeWeek": 746,
@@ -150,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-23": 1138,
+      "2025-11-23": 1155,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
