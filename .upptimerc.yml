@@ -13,6 +13,8 @@ sites:
     url: https://rivergames.ca
   - name: Nexus S Posts
     url: https://posts.nexussfan.cz
+  - name: Nexus S Matrix
+    url: https://matrix.nexussfan.cz
   - name: Mr Chicken Repo
     url: https://repo.nexussfan.cz
   - name: Technetium
