@@ -13,6 +13,8 @@ sites:
     url: https://rivergames.ca
   - name: Riverpedia
     url: https://wiki.rivergames.ca
+  - name: River Blogs
+    url: https://blog.rivergames.ca
   - name: Nexus S Posts
     url: https://posts.nexussfan.cz
   - name: Nexus S Matrix
