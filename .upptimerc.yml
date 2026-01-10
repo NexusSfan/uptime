@@ -21,6 +21,8 @@ sites:
     url: https://matrix.nexussfan.cz
   - name: Mr Chicken Repo
     url: https://repo.nexussfan.cz
+  - name: Sarzamin Archive
+    url: https://archive.nexussfan.cz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
