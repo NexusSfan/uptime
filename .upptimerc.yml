@@ -23,6 +23,10 @@ sites:
     url: https://repo.nexussfan.cz
   - name: Sarzamin Archive
     url: https://archive.nexussfan.cz
+  - name: NexusSfan-FB
+    check: "tcp-ping"
+    url: fb.nexussfan.cz
+    port: 1511
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
