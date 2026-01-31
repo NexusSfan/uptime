@@ -11,10 +11,14 @@ sites:
     url: https://mrchicken.coolpage.biz
   - name: River Games
     url: https://rivergames.ca
+    assignees:
+      - colebohte
   - name: Riverpedia
     url: https://wiki.rivergames.ca
   - name: River Blogs
     url: https://blog.rivergames.ca
+    assignees:
+      - colebohte
   - name: Nexus S Posts
     url: https://posts.nexussfan.cz
   - name: Nexus S Matrix
