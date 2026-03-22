@@ -1,7 +1,7 @@
 url: https://matrix.nexussfan.cz
-status: up
-code: 200
-responseTime: 1033
-lastUpdated: 2026-03-21T23:28:07.589Z
+status: down
+code: 503
+responseTime: 527
+lastUpdated: 2026-03-22T16:41:14.727Z
 startTime: 2025-11-24T02:00:16.966Z
 generator: Upptime <https://github.com/upptime/upptime>
