@@ -246,16 +246,16 @@
     "url": "https://archive.nexussfan.cz",
     "icon": "https://icons.duckduckgo.com/ip3/archive.nexussfan.cz.ico",
     "slug": "sarzamin-archive",
-    "status": "down",
-    "uptime": "97.70%",
-    "uptimeDay": "99.98%",
+    "status": "up",
+    "uptime": "97.68%",
+    "uptimeDay": "96.91%",
     "uptimeWeek": "85.18%",
-    "uptimeMonth": "86.65%",
-    "uptimeYear": "97.70%",
+    "uptimeMonth": "86.55%",
+    "uptimeYear": "97.68%",
     "time": 915,
-    "timeDay": 553,
-    "timeWeek": 1011,
-    "timeMonth": 1046,
+    "timeDay": 691,
+    "timeWeek": 991,
+    "timeMonth": 1039,
     "timeYear": 915,
     "dailyMinutesDown": {
       "2026-01-15": 15,
@@ -269,7 +269,7 @@
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 458,
-      "2026-07-11": 0
+      "2026-07-11": 45
     }
   },
   {
