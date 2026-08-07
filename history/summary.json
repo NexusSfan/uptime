@@ -4,17 +4,17 @@
     "url": "https://nexussfan.cz",
     "icon": "https://icons.duckduckgo.com/ip3/nexussfan.cz.ico",
     "slug": "nexus-sfan",
-    "status": "down",
-    "uptime": "97.19%",
-    "uptimeDay": "91.48%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "97.19%",
-    "time": 661,
-    "timeDay": 731,
-    "timeWeek": 576,
-    "timeMonth": 581,
-    "timeYear": 661,
+    "status": "up",
+    "uptime": "97.18%",
+    "uptimeDay": "89.23%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "97.18%",
+    "time": 660,
+    "timeDay": 646,
+    "timeWeek": 574,
+    "timeMonth": 580,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2025-11-23": 7,
       "2025-12-01": 1440,
@@ -29,7 +29,7 @@
       "2025-12-27": 55,
       "2026-01-05": 57,
       "2026-02-01": 32,
-      "2026-08-07": 123
+      "2026-08-07": 155
     }
   },
   {
@@ -37,16 +37,16 @@
     "url": "https://mrchicken.nexussfan.cz",
     "icon": "https://icons.duckduckgo.com/ip3/mrchicken.nexussfan.cz.ico",
     "slug": "mr-chicken-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "96.94%",
-    "uptimeDay": "91.82%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "89.57%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "96.94%",
     "time": 837,
-    "timeDay": 795,
-    "timeWeek": 923,
-    "timeMonth": 975,
+    "timeDay": 819,
+    "timeWeek": 913,
+    "timeMonth": 970,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2025-11-23": 12,
@@ -63,7 +63,7 @@
       "2026-01-05": 55,
       "2026-02-01": 32,
       "2026-04-17": 1009,
-      "2026-08-07": 118
+      "2026-08-07": 150
     }
   },
   {
@@ -166,11 +166,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.nexussfan.cz.ico",
     "slug": "nexus-s-matrix",
     "status": "down",
-    "uptime": "95.45%",
-    "uptimeDay": "92.50%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "95.45%",
+    "uptime": "95.44%",
+    "uptimeDay": "90.11%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "95.44%",
     "time": 1099,
     "timeDay": 1751,
     "timeWeek": 1786,
@@ -203,7 +203,7 @@
       "2026-06-23": 1052,
       "2026-06-29": 162,
       "2026-07-22": 175,
-      "2026-08-07": 108
+      "2026-08-07": 142
     }
   },
   {
@@ -256,11 +256,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/archive.nexussfan.cz.ico",
     "slug": "sarzamin-archive",
     "status": "down",
-    "uptime": "97.95%",
-    "uptimeDay": "93.17%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "97.95%",
+    "uptime": "97.93%",
+    "uptimeDay": "90.78%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "97.93%",
     "time": 893,
     "timeDay": 630,
     "timeWeek": 642,
@@ -279,7 +279,7 @@
       "2026-07-03": 1440,
       "2026-07-02": 458,
       "2026-07-11": 45,
-      "2026-08-07": 98
+      "2026-08-07": 133
     }
   },
   {
