@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexussfan.cz.ico",
     "slug": "nexus-sfan",
     "status": "down",
-    "uptime": "97.21%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "97.21%",
+    "uptime": "97.20%",
+    "uptimeDay": "94.17%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "97.20%",
     "time": 661,
     "timeDay": 731,
     "timeWeek": 576,
@@ -29,7 +29,7 @@
       "2025-12-27": 55,
       "2026-01-05": 57,
       "2026-02-01": 32,
-      "2026-08-07": 29
+      "2026-08-07": 84
     }
   },
   {
@@ -38,11 +38,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mrchicken.nexussfan.cz.ico",
     "slug": "mr-chicken-cz",
     "status": "down",
-    "uptime": "96.96%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "96.96%",
+    "uptime": "96.95%",
+    "uptimeDay": "94.51%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "96.95%",
     "time": 837,
     "timeDay": 795,
     "timeWeek": 923,
@@ -63,7 +63,7 @@
       "2026-01-05": 55,
       "2026-02-01": 32,
       "2026-04-17": 1009,
-      "2026-08-07": 25
+      "2026-08-07": 79
     }
   },
   {
@@ -106,11 +106,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/posts.nexussfan.cz.ico",
     "slug": "nexus-s-posts",
     "status": "down",
-    "uptime": "94.44%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "94.44%",
+    "uptime": "94.43%",
+    "uptimeDay": "94.85%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "94.43%",
     "time": 777,
     "timeDay": 628,
     "timeWeek": 636,
@@ -157,7 +157,7 @@
       "2026-06-29": 163,
       "2026-07-23": 224,
       "2026-07-22": 223,
-      "2026-08-07": 20
+      "2026-08-07": 74
     }
   },
   {
@@ -166,11 +166,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.nexussfan.cz.ico",
     "slug": "nexus-s-matrix",
     "status": "down",
-    "uptime": "95.47%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "95.47%",
+    "uptime": "95.46%",
+    "uptimeDay": "95.19%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "95.46%",
     "time": 1099,
     "timeDay": 1751,
     "timeWeek": 1786,
@@ -203,7 +203,7 @@
       "2026-06-23": 1052,
       "2026-06-29": 162,
       "2026-07-22": 175,
-      "2026-08-07": 15
+      "2026-08-07": 69
     }
   },
   {
@@ -212,11 +212,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.nexussfan.cz.ico",
     "slug": "mr-chicken-repo",
     "status": "down",
-    "uptime": "93.74%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "93.74%",
+    "uptime": "93.73%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "93.73%",
     "time": 564,
     "timeDay": 423,
     "timeWeek": 481,
@@ -247,7 +247,7 @@
       "2025-12-27": 55,
       "2026-01-05": 46,
       "2026-02-01": 30,
-      "2026-08-07": 10
+      "2026-08-07": 64
     }
   },
   {
@@ -256,11 +256,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/archive.nexussfan.cz.ico",
     "slug": "sarzamin-archive",
     "status": "down",
-    "uptime": "97.98%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "97.98%",
+    "uptime": "97.96%",
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "97.96%",
     "time": 893,
     "timeDay": 630,
     "timeWeek": 642,
@@ -279,7 +279,7 @@
       "2026-07-03": 1440,
       "2026-07-02": 458,
       "2026-07-11": 45,
-      "2026-08-07": 5
+      "2026-08-07": 60
     }
   },
   {
@@ -287,17 +287,17 @@
     "url": "https://kittygram.nexussfan.cz",
     "icon": "https://icons.duckduckgo.com/ip3/kittygram.nexussfan.cz.ico",
     "slug": "kittygram",
-    "status": "down",
-    "uptime": "89.10%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "89.10%",
-    "time": 527,
-    "timeDay": 469,
-    "timeWeek": 510,
-    "timeMonth": 519,
-    "timeYear": 527,
+    "status": "up",
+    "uptime": "89.08%",
+    "uptimeDay": "96.22%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "89.08%",
+    "time": 712,
+    "timeDay": 14097,
+    "timeWeek": 3912,
+    "timeMonth": 1343,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2026-04-16": 53,
       "2026-04-18": 235,
@@ -320,7 +320,7 @@
       "2026-06-23": 934,
       "2026-06-29": 162,
       "2026-07-22": 105,
-      "2026-08-07": 0
+      "2026-08-07": 54
     }
   },
   {
