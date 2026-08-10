@@ -4,17 +4,17 @@
     "url": "https://nexussfan.cz",
     "icon": "https://icons.duckduckgo.com/ip3/nexussfan.cz.ico",
     "slug": "nexus-sfan",
-    "status": "down",
-    "uptime": "97.21%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "97.21%",
-    "time": 660,
-    "timeDay": 775,
-    "timeWeek": 586,
-    "timeMonth": 577,
-    "timeYear": 660,
+    "status": "up",
+    "uptime": "97.20%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "97.20%",
+    "time": 659,
+    "timeDay": 611,
+    "timeWeek": 571,
+    "timeMonth": 573,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2025-11-23": 7,
       "2025-12-01": 1440,
@@ -30,7 +30,7 @@
       "2026-01-05": 57,
       "2026-02-01": 32,
       "2026-08-07": 155,
-      "2026-08-10": 8
+      "2026-08-10": 33
     }
   },
   {
