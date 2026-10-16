@@ -23,6 +23,10 @@ sites:
     check: "tcp-ping"
     url: fb.nexussfan.cz
     port: 1511
+  - name: MrChicken FTP
+    check: "tcp-ping"
+    url: ftp.nexussfan.cz
+    port: 21
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
